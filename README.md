@@ -4,7 +4,7 @@
 ### Below I've shared screeshot do the app.
 ![image](https://github.com/fersilva362/frontEndMovies/assets/78646102/602e1fbe-6b70-408b-9467-c70b35a214bd)
 ![image](https://github.com/fersilva362/frontEndMovies/assets/78646102/10e3b9e2-b535-4bb0-a84e-ff3d15fb4ec4)
-
+![image](https://github.com/fersilva362/frontEndMovies/assets/78646102/82ecb1a8-5b9e-40e5-9d24-23df914358f6)
 
 
 
